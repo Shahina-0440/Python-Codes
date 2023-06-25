@@ -1,4 +1,4 @@
-def Fibinocci_series(n): 
+def Fibinocci_Series(n): 
     a=0
     b=1
     print(a,b,end=" ")
